@@ -1,0 +1,166 @@
+/*------------------------------------------------
+    Template name: Fitness Website Admin Dashboard Template
+    Author Name: Enjamul Islam
+    Author URI: https://enjamul.me
+    Version: 1.0
+    Description: 
+    
+
+------------------------------------------------*/
+
+/*------------------------------------------------
+
+    [ CSS Index ]
+
+
+    
+------------------------------------------------*/
+
+/*------------------------------------------------
+    1.0. Google Fonts
+------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&family=Nunito:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/*------------------------------------------------
+    2.0. Common CSS
+------------------------------------------------*/
+
+:root {
+    /* Color */
+    --primary: #FB6A2D;
+    --secondary: #B3CB6C;
+    --textColor: #1C2737;
+    --skyLight: #5A80E3;
+    --whiteLight: #F4E7FF;
+    --dangerLight: #FF5666;
+    --background: #F5F7FB;
+    /* font */
+    --primaryFont: 'Nunito Sans', sans-serif;
+    --secondaryFont: 'Nunito', sans-serif;
+    /* Font Size */
+    --textSize: 14px;
+    --headingOne: 46px;
+    --headingTwo: 32px;
+    --headingThree: 26px;
+    --headingFour: 20px;
+    /* Font Weight */
+    --font400: 400;
+    --font500: 500;
+    --font600: 600;
+    --font700: 700;
+    /* Line-height */
+    --textHeight: 22px;
+    --lineheighth1: 56px;
+    --lineheighth2: 46px;
+    --lineheighth3: 32px;
+    --lineheighth4: 28px;
+    /* padding */
+
+}
+
+/* Defult CSS Class */
+
+h1, h2, h3, h4 {
+    font-family: var(--secondaryFont);
+    font-weight: var(--font600);
+    margin-bottom: 0;
+}
+
+h1 {
+    font-size: var(--headingOne);
+    line-height: var(--lineheighth1);
+}
+
+h2 {
+    font-size: var(--headingTwo);
+    line-height: var(--lineheighth2);
+}
+
+h3 {
+    font-size: var(--headingThree);
+    line-height: var(--lineheighth3);
+}
+
+h4 {
+    font-size: var(--headingFour);
+    line-height: var(--lineheighth4);
+}
+
+a {
+    color: var(--textColor);
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.bg-light {
+    background-color: #ffffff;
+}
+
+.bg-skylight {
+    background-color: var(--skyLight);
+}
+
+.bg-danger {
+    background-color: var(--dangerLight);
+}
+
+.rounded_box {
+    border-radius: 45px;
+}
+
+/*------------------------------------------------
+    3.0. HTML/Body
+------------------------------------------------*/
+
+html, body {
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--primaryFont);
+    font-size: var(--textSize);
+    font-weight: var(--font400);
+    color: var(--textColor);
+}
+
+/*------------------------------------------------
+    
+------------------------------------------------*/
+
+
+
+
+
+
+
+
+/*------------------------------------------------
+
+------------------------------------------------*/
+
+
+
+
+
+
+
+
+/*------------------------------------------------
+    
+------------------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------------------
+    
+------------------------------------------------*/
